@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50d16be2-e089-45f9-bd4a-5eb30bad8d99" name="Changes" comment="첫 스프링 연습!!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/hs/study/beans/TestBean2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/hs/study/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/hs/study/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/hs/study/beans/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/hs/study/beans/TestBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
-    </list>
+    <list default="true" id="50d16be2-e089-45f9-bd4a-5eb30bad8d99" name="Changes" comment="spring으로 객체 생성하고 주소 출력해보기!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,13 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678342681880</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="spring으로 객체 생성하고 주소 출력해보기!">
+      <created>1678345275585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678345275585</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="spring 설정파일" />
     <MESSAGE value="first commit" />
     <MESSAGE value="첫 스프링 연습!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="첫 스프링 연습!!" />
+    <MESSAGE value="spring으로 객체 생성하고 주소 출력해보기!" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring으로 객체 생성하고 주소 출력해보기!" />
   </component>
 </project>
